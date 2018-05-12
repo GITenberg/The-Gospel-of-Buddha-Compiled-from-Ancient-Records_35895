@@ -1,0 +1,36 @@
+_repo: The-Gospel-of-Buddha-Compiled-from-Ancient-Records_35895
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Kopetzky, O. (Olga)
+    alias: Kopetzky, Olga
+    gutenberg_agent_id: '37963'
+    url: http://www.gutenberg.org/2009/agents/37963
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carus, Paul
+    birthdate: 1852
+    deathdate: 1919
+    gutenberg_agent_id: '25540'
+    url: http://www.gutenberg.org/2009/agents/25540
+    wikipedia: http://en.wikipedia.org/wiki/Paul_Carus
+description: ''
+gutenberg_issued: '2011-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35895'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BQ'
+- !lcsh 'Gautama Buddha -- Teachings'
+- !lcsh 'Gautama Buddha'
+- !lcsh 'Christianity and other religions -- Buddhism'
+- !lcsh 'Buddhism'
+title: The Gospel of Buddha, Compiled from Ancient Records
+url: http://www.gutenberg.org/ebooks/35895
