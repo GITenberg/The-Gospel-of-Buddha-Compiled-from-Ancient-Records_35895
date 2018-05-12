@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25540
     wikipedia: http://en.wikipedia.org/wiki/Paul_Carus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35895#The-Gospel-of-Buddha-Compiled-from-Ancient-Records
 gutenberg_issued: '2011-04-17'
 gutenberg_type: Text
 identifiers:
